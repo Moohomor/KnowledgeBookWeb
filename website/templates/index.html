@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="list-group">
+    {% for it in questions %}
+    <a href="/q/{{it.id}}" class="list-group-item">
+        <h3>{{it.title}}</h3>
+        <div>{{it.author}}</div>
+        <div>{{it.posted}}</div>
+    </a>
+    {% endfor %}
+</div>
+{% endblock %}

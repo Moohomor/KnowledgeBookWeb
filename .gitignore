@@ -1,0 +1,6 @@
+# Project exclude paths
+/Include/
+/Lib/
+/Scripts/
+/website/db/users.sqlite
+/pyvenv.cfg
