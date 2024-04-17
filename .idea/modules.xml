@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../YLapi/.idea/YLapi.iml" filepath="$PROJECT_DIR$/../YLapi/.idea/YLapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/YLweb.iml" filepath="$PROJECT_DIR$/.idea/YLweb.iml" />
     </modules>
   </component>
